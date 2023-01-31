@@ -11,19 +11,19 @@ Asistente de Docencia: Francisco Sesto
 
 | Fecha  | Tema                                                 | Slides + Lecturas                                            | Notebooks                                                    |      |
 | ------ | ---------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| 6-Mar  | Función de Esperanza Condicional                     | Slides<br/>                                                  | 1. [Intro a Python](https://github.com/rpasquini/econometria/blob/main/notebooks/Python_Austral.ipynb)<br/>2. Función Esperanza Condicional |      |
-| 13-Mar | Regresión   Lineal                                   | Slides<br/>Wooldridge   ch 2.                                |                                                              |      |
-| 20-Mar | Propiedades   estadísticas del modelo lineal         | Slides<br/>Wooldridge   ch 2.                                |                                                              |      |
-| 27-Mar | Regresión   Múltiple                                 | Slides<br/>Wooldridge   ch 7.                                |                                                              |      |
-| 3-Apr  | Regresión   Múltiple                                 | Slides<br/>Wooldridge   ch 3.                                |                                                              |      |
-| 10-Apr | Regresión Múltiple: Inferencia y   teoría asintótica | Slides<br/>Wooldridge   ch 4                                 |                                                              |      |
-| 17-Apr | Heterocedasticidad,   Correlación Serial y Espacial  | Slides<br/>Wooldridge   ch 8., ch12.1-2                      |                                                              |      |
-| 8-May  | Inferencia   Causal y Diseños Aleatorizados          | Slides<br/>Wooldridge   ch.2.7. Angrist & Pischke MHE ch. 2 The Experimental Ideal |                                                              |      |
-| 15-May | Modelos   basados en Independencia Condicional       | Slides<br/>Angrist   & Pischke MM ch2.  Angrist &   Pischke MHE ch.3.2-3.3 |                                                              |      |
-| 22-May | Diferencias   en Diferencias                         | Slides<br/>Angrist   & Pischke MM ch. 5                      |                                                              |      |
-| 29-May | Variables   Instrumentales                           | Slides<br/>Wooldridge   ch.15. Angrist & Pischke MM ch.3     |                                                              |      |
-| 5-Jun  | Diseño   por Discontinudad                           | Slides<br/>Angrist   & Pischke MM ch. 4  y papers a   definir. |                                                              |      |
-| 12-Jun | Series   de Tiempo                                   | Slides<br/>Wooldridge   ch 10-11                             |                                                              |      |
+| 6-Mar  | Función de Esperanza Condicional                     | - Slides<br/>                                                | 1. [Intro a Python](https://github.com/rpasquini/econometria/blob/main/notebooks/Python_Austral.ipynb)<br/>2. Función Esperanza Condicional |      |
+| 13-Mar | Regresión   Lineal                                   | - Slides<br/>- Wooldridge   ch 2.                            |                                                              |      |
+| 20-Mar | Propiedades   estadísticas del modelo lineal         | - Slides<br/>- Wooldridge   ch 2.                            |                                                              |      |
+| 27-Mar | Regresión   Múltiple                                 | - Slides<br/>- Wooldridge   ch 7.                            |                                                              |      |
+| 3-Apr  | Regresión   Múltiple                                 | - Slides<br/>- Wooldridge   ch 3.                            |                                                              |      |
+| 10-Apr | Regresión Múltiple: Inferencia y   teoría asintótica | - Slides<br/> - Wooldridge   ch 4                            |                                                              |      |
+| 17-Apr | Heterocedasticidad,   Correlación Serial y Espacial  | - Slides<br/>- Wooldridge   ch 8., ch12.1-2                  |                                                              |      |
+| 8-May  | Inferencia   Causal y Diseños Aleatorizados          | - Slides<br/>- Wooldridge   ch.2.7. <br/> - Angrist & Pischke MHE ch. 2 The Experimental Ideal |                                                              |      |
+| 15-May | Modelos   basados en Independencia Condicional       | - Slides<br/>- Angrist   & Pischke MM ch2.  <br/>- Angrist &   Pischke MHE ch.3.2-3.3 |                                                              |      |
+| 22-May | Diferencias   en Diferencias                         | - Slides<br/>- Angrist   & Pischke MM ch. 5                  |                                                              |      |
+| 29-May | Variables   Instrumentales                           | - Slides<br/> - Wooldridge   ch.15. <br/>- Angrist & Pischke MM ch.3 |                                                              |      |
+| 5-Jun  | Diseño   por Discontinudad                           | - Slides<br/> - Angrist   & Pischke MM ch. 4  y papers a   definir. |                                                              |      |
+| 12-Jun | Series   de Tiempo                                   | - Slides<br/>- Wooldridge   ch 10-11                         |                                                              |      |
 * Ver también el detalle de los temas, y ejercicios asignados en esta versión del [cronograma](https://alumniiaeedu-my.sharepoint.com/:x:/g/personal/rpasquini_austral_edu_ar/EYxX_bAdzahGpWJe7p4WDuwBTN0jEWwvXJTbXr0KaDm4eg?e=kwJC4z).
 
 
