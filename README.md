@@ -11,7 +11,7 @@ Asistente (voluntario): Francisco Sesto
 
 | Fecha  | Tema                                                 | Slides + Lecturas                                            | Notebooks                                                    |      |
 | ------ | ---------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| 6-Mar  | Función de Esperanza Condicional                     | - [Slides][https://github.com/rpasquini/econometria/blob/main/slides/dia%201%20cef.pdf]<br/> | 1. [Intro a Python](https://github.com/rpasquini/econometria/blob/main/notebooks/Python_Austral.ipynb)<br/>2. Función Esperanza Condicional |      |
+| 6-Mar  | Función de Esperanza Condicional                     | - [Slides](https://github.com/rpasquini/econometria/blob/main/slides/dia%201%20cef.pdf)<br/> | 1. [Intro a Python](https://github.com/rpasquini/econometria/blob/main/notebooks/Python_Austral.ipynb)<br/>2. Función Esperanza Condicional |      |
 | 13-Mar | Regresión   Lineal                                   | - Slides<br/>- Wooldridge   ch 2.                            |                                                              |      |
 | 20-Mar | Propiedades   estadísticas del modelo lineal         | - Slides<br/>- Wooldridge   ch 2.                            |                                                              |      |
 | 27-Mar | Regresión   Múltiple                                 | - Slides<br/>- Wooldridge   ch 7.                            |                                                              |      |
