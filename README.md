@@ -2,7 +2,7 @@
 
 Profesor: Ricardo Pasquini
 
-Asistente de Docencia: Francisco Sesto
+Asistente (voluntario): Francisco Sesto
 
 
 
