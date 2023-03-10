@@ -25,7 +25,7 @@ Asistente (voluntario): Francisco Sesto
 | 5-Jun  | Diseño   por Discontinudad                           | - Slides<br/> - Angrist   & Pischke MM ch. 4  y papers a   definir. |                                                              |      |
 | 12-Jun | Series   de Tiempo                                   | - Slides<br/>- Wooldridge   ch 10-11                         |                                                              |      |
 * Ver también el detalle de los temas, y ejercicios asignados en esta versión del [cronograma](https://alumniiaeedu-my.sharepoint.com/:x:/g/personal/rpasquini_austral_edu_ar/EYxX_bAdzahGpWJe7p4WDuwBTN0jEWwvXJTbXr0KaDm4eg?e=kwJC4z).
-
+* Ver también [CheatSheet Python](https://github.com/rpasquini/econometria/blob/main/datos/cheatsheet-python-1.pdf).
 
 
 
