@@ -11,11 +11,11 @@ Asistente (voluntario): Francisco Sesto
 
 |Fecha|Tema|Slides + Lecturas|Notebooks|
 |:----|:----|:----|:----|
-|6-Mar|Repaso Conceptos Probabilidad|Wooldridge Appendix B|1. [Intro a Python](https://github.com/rpasquini/econometria/blob/main/notebooks/1_Python_Austral.ipynb)<br/>2. [Función Esperanza Condicional](https://github.com/rpasquini/econometria/blob/main/notebooks/CEF_intro_Austral.ipynb)|
-|13-Mar|Estimador de Esperanza Condicional|- [Slides](https://github.com/rpasquini/econometria/blob/main/slides/cef.pdf)<br/>- Wooldridge   ch 2.|1. [Booleanos y Lista en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/2_Python_Austral.ipynb)|
-|20-Mar|Regresión   Lineal|- Slides<br/>- Wooldridge   ch 2.| |
-|27-Mar|Propiedades   estadísticas del modelo lineal|- Slides<br/>- Wooldridge   ch 2.| |
-|3-Apr|Regresión   Múltiple|- Slides<br/>- Wooldridge   ch 7.| |
+|6-Mar|Repaso Conceptos Probabilidad|Wooldridge Appendix B|1. [Intro a Python](https://github.com/rpasquini/econometria/blob/main/notebooks/1_Python_Austral.ipynb)<br/>2. [Función Esperanza Condicional](https://github.com/rpasquini/econometria/blob/main/notebooks/CEF_intro_Austral.ipynb)<br/>3.[Desafío Operaciones y Datos en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/Desafío_Operaciones_y_Datos_Python_Austral.ipynb)|
+|13-Mar|Estimador de Esperanza Condicional|- [Slides](https://github.com/rpasquini/econometria/blob/main/slides/cef.pdf)<br/>- Wooldridge   ch 2.|1. [Booleanos y Lista en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/2_Python_Austral.ipynb)|)<br/>2. [Desafío Booleanos y Listas en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/Desafío_Booleanos_y_Listas_Python_Austral.ipynb)|                                                            
+|20-Mar|Regresión   Lineal|- Slides<br/>- Wooldridge   ch 2.| 1. [Tuplas y Diccionarios en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/3_Python_Austral.ipynb)<br/>2. [Desafío Tuplas y Diccionarios en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/Desafío_Tuplas_y_Diccionarios_Python_Austral.ipynb)                                                                 |
+|27-Mar|Propiedades   estadísticas del modelo lineal|- Slides<br/>- Wooldridge   ch 2.| 1. [Estructuras de control de flujo en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/4_Python_Austral.ipynb)<br/>2. [Desafío Estructuras de control de flujo en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/Desafío_Estructuras_de_Control_de_Flujo_Python_Austral.ipynb)                                                                 |
+|3-Apr|Regresión   Múltiple|- Slides<br/>- Wooldridge   ch 7.|1. [Funciones y módulos en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/5_Python_Austral.ipynb)<br/>2. [Desafío Funciones en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/Desafío_de_Funciones_Python_Austral.ipynb)                                                               |
 |10-Apr|Regresión   Múltiple|- Slides<br/>- Wooldridge   ch 3.| |
 |17-Apr|Regresión Múltiple: Inferencia y   teoría asintótica|- Slides<br/> - Wooldridge   ch 4| |
 |8-May|Heterocedasticidad,   Correlación Serial y Espacial|- Slides<br/>- Wooldridge   ch 8., ch12.1-2| |
@@ -26,7 +26,7 @@ Asistente (voluntario): Francisco Sesto
 |12-Jun|Series   de Tiempo|- Slides<br/> - Angrist   & Pischke MM ch. 4  y papers a   definir.| |
 |Condicional a que quede tiempo|Diseño   por Discontinudad|- Slides<br/>- Wooldridge   ch 10-11| |
 * Ver también el detalle de los temas, y ejercicios asignados en esta versión del [cronograma](https://alumniiaeedu-my.sharepoint.com/:x:/g/personal/rpasquini_austral_edu_ar/EYxX_bAdzahGpWJe7p4WDuwBTN0jEWwvXJTbXr0KaDm4eg?e=kwJC4z).
-
+* Ver también [CheatSheet Python](https://github.com/rpasquini/econometria/blob/main/datos/cheatsheet-python-1.pdf).
 
 
 ## Ejercicios
