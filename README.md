@@ -12,7 +12,7 @@ Asistente (voluntario): Francisco Sesto
 |Fecha|Tema|Slides + Lecturas|Notebooks|
 |:----|:----|:----|:----|
 |6-Mar|Repaso Conceptos Probabilidad|Wooldridge Appendix B|1. [Intro a Python](https://github.com/rpasquini/econometria/blob/main/notebooks/1_Python_Austral.ipynb)<br/>2. [Función Esperanza Condicional](https://github.com/rpasquini/econometria/blob/main/notebooks/CEF_intro_Austral.ipynb)|
-|13-Mar|Estimador de Esperanza Condicional|- [Slides](https://github.com/rpasquini/econometria/blob/main/slides/dia%201%20cef.pdf)<br/>- Wooldridge   ch 2.|1. [Booleanos y Lista en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/2_Python_Austral.ipynb)|
+|13-Mar|Estimador de Esperanza Condicional|- [Slides](https://github.com/rpasquini/econometria/blob/main/slides/cef.pdf)<br/>- Wooldridge   ch 2.|1. [Booleanos y Lista en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/2_Python_Austral.ipynb)|
 |20-Mar|Regresión   Lineal|- Slides<br/>- Wooldridge   ch 2.| |
 |27-Mar|Propiedades   estadísticas del modelo lineal|- Slides<br/>- Wooldridge   ch 2.| |
 |3-Apr|Regresión   Múltiple|- Slides<br/>- Wooldridge   ch 7.| |
