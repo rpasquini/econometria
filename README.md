@@ -41,4 +41,3 @@ Asistente (voluntario): Francisco Sesto
 * [Introductory Econometrics, A Modern Approach" 7th Edition. Jeffrey Wooldridge](https://www.amazon.com/Introductory-Econometrics-Modern-Approach-MindTap/dp/1337558869/ref=sr_1_1?keywords=introductory+econometrics+a+modern+approach&qid=1674591514&s=books&sprefix=introductory+econo%2Cstripbooks-intl-ship%2C303&sr=1-1)
 * [Angrist and Piscke's Mastering Metrics site](https://www.masteringmetrics.com/) (MM)
 * [Angrist and Piscke's Mostly Harmless Econometrics](https://www.researchgate.net/publication/51992844_Mostly_Harmless_Econometrics_An_Empiricist's_Companion) (MHE)
-
