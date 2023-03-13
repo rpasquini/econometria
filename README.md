@@ -27,7 +27,7 @@ Asistente (voluntario): Francisco Sesto
 |Condicional a que quede tiempo|Diseño   por Discontinudad|- Slides<br/>- Wooldridge   ch 10-11| |
 * Ver también el detalle de los temas, y ejercicios asignados en esta versión del [cronograma](https://alumniiaeedu-my.sharepoint.com/:x:/g/personal/rpasquini_austral_edu_ar/EYxX_bAdzahGpWJe7p4WDuwBTN0jEWwvXJTbXr0KaDm4eg?e=kwJC4z).
 * Ver también [CheatSheet Python](https://github.com/rpasquini/econometria/blob/main/datos/cheatsheet-python-1.pdf).
-* Ver también [Guía de Pandas](https://github.com/rpasquini/econometria/blob/main/datos/Pandas_Austral.ipynb).
+* Ver también [Guía de Pandas](https://github.com/rpasquini/econometria/blob/main/notebooks/Pandas_Austral.ipynb).
 
 
 ## Ejercicios
