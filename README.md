@@ -49,7 +49,7 @@ Asistente (voluntario): Francisco Sesto
 
 # Python
 
-Este excelente material fue preparado por el asistente del curso Francisco Sesto.
+Este excelente material opcional fue preparado por el asistente del curso Francisco Sesto.
 
 1. [Intro a Python](https://github.com/rpasquini/econometria/blob/main/notebooks/1_Python_Austral.ipynb)
 2. [Desafío Operaciones y Datos en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/Desafío_Operaciones_y_Datos_Python_Austral.ipynb)
