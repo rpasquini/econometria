@@ -17,7 +17,7 @@ Asistente (voluntario): Francisco Sesto
 |27-Mar|Propiedades algebraicas, bondad de ajuste, transformaciones |- Wooldridge   ch 2.| [Notebook para practica](https://github.com/rpasquini/econometria/blob/main/notebooks/OLS_2_Ajuste_Propiedades_Test_de_Hip%C3%B3tesis.ipynb)<br/>                                                  |
 |3-Apr|Propiedades Estadísticas: Valor esperado y Varianza de los estimadores. Inclusión de variables binarias.|- Wooldridge   ch 2.|[Notebook clase](https://github.com/rpasquini/econometria/blob/main/OLS%20dummys.ipynb)<br/>                                                               |
 |17-Apr|Tests de Hipótesis|-- Wooldridge   ch 4.<br/> [Notas de clase Tests Hipotesis](https://github.com/rpasquini/econometria/blob/main/slides/Test%20Hipotesis.pdf)| [Notebook tests](https://github.com/rpasquini/econometria/blob/main/Ejemplos_Testeo_de_Hip%C3%B3tesis.ipynb) |
-|24-Apr|Regresión Múltiple|- Wooldridge   ch 3| |
+|24-Apr|Regresión Múltiple|- Wooldridge   ch 3| [Notebooks regresión múltiple](https://github.com/rpasquini/econometria/blob/main/notebooks/Ejemplos_Regresion_Multiple.ipynb) |
 |8-May|Heterocedasticidad,   Correlación Serial y Espacial|- Slides<br/>- Wooldridge   ch 8., ch12.1-2| |
 |15-May|Inferencia   Causal y Diseños Aleatorizados|- Slides<br/>- Wooldridge   ch.2.7. <br/> - Angrist & Pischke MHE ch. 2 The Experimental Ideal| |
 |22-May|Modelos   basados en Independencia Condicional|- Slides<br/>- Angrist   & Pischke MM ch2.  <br/>- Angrist &   Pischke MHE ch.3.2-3.3| |
