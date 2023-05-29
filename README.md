@@ -21,7 +21,7 @@ Asistente (voluntario): Francisco Sesto
 |8-May|Clasificación / Dependiente Binaria o Categórica  | [Slides de clase](https://github.com/rpasquini/econometria/blob/main/slides/Modelos%20Clasificaci%C3%B3n.pdf)<br/>| [notebook clasificacion](https://github.com/rpasquini/econometria/blob/main/5_Modelos_de_Clasificacion.ipynb) |
 |15-May|Inferencia   Causal y Diseños Aleatorizados|- [Slides](https://github.com/rpasquini/econometria/blob/main/slides/Sesgo%20selecci%C3%B3n%20y%20RCTs.pdf)<br/>- Wooldridge   ch.2.7. <br/> - Angrist & Pischke MHE ch. 2 The Experimental Ideal| |
 |22-May|Modelos   basados en Independencia Condicional|- [Slides](https://github.com/rpasquini/econometria/blob/main/slides/CIA.pdf)<br/>- Angrist   & Pischke MM ch2.  <br/>- Angrist &   Pischke MHE ch.3.2-3.3| [notebook](https://github.com/rpasquini/econometria/blob/main/CIA_y_Matching.ipynb)|
-|29-May|Diferencias   en Diferencias|- Slides<br/>- Angrist   & Pischke MM ch. 5| |
+|29-May|Diferencias   en Diferencias|- Slides<br/>- Angrist   & Pischke MM ch. 5| [notebook](https://github.com/rpasquini/econometria/blob/main/notebooks/Diferencias_en_Diferencias.ipynb) |
 |5-Jun|Variables   Instrumentales|- Slides<br/> - Wooldridge   ch.15. <br/>- Angrist & Pischke MM ch.3| |
 |12-Jun|Series   de Tiempo|- Slides<br/> - Angrist   & Pischke MM ch. 4  y papers a   definir.| |
 |Condicional a que quede tiempo|Diseño   por Discontinudad|- Slides<br/>- Wooldridge   ch 10-11| |
