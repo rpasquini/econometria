@@ -22,8 +22,8 @@ Asistente (voluntario): Francisco Sesto
 |15-May|Inferencia   Causal y Diseños Aleatorizados|- [Slides](https://github.com/rpasquini/econometria/blob/main/slides/Sesgo%20selecci%C3%B3n%20y%20RCTs.pdf)<br/>- Wooldridge   ch.2.7. <br/> - Angrist & Pischke MHE ch. 2 The Experimental Ideal| |
 |22-May|Modelos   basados en Independencia Condicional|- [Slides](https://github.com/rpasquini/econometria/blob/main/slides/CIA.pdf)<br/>- Angrist   & Pischke MM ch2.  <br/>- Angrist &   Pischke MHE ch.3.2-3.3| [notebook](https://github.com/rpasquini/econometria/blob/main/CIA_y_Matching.ipynb)|
 |29-May|Diferencias   en Diferencias|- [Slides](https://github.com/rpasquini/econometria/blob/main/slides/DD.pdf)<br/>- Angrist   & Pischke MM ch. 5| [notebook](https://github.com/rpasquini/econometria/blob/main/notebooks/Diferencias_en_Diferencias.ipynb) |
-|5-Jun|Variables   Instrumentales|- [DAGs Slides][https://github.com/rpasquini/econometria/blob/main/slides/Dags.pdf]<br/> -Wooldridge   ch.15. <br/>- Angrist & Pischke MM ch.3|[notebook](https://github.com/rpasquini/econometria/blob/main/Instrumental_Variables.ipynb) |
-|12-Jun|Series   de Tiempo|- Slides<br/> - Angrist   & Pischke MM ch. 4  y papers a   definir.| |
+|5-Jun|Variables   Instrumentales|- [DAGs Slides](https://github.com/rpasquini/econometria/blob/main/slides/Dags.pdf)<br/> -Wooldridge   ch.15. <br/>- Angrist & Pischke MM ch.3|[notebook](https://github.com/rpasquini/econometria/blob/main/Instrumental_Variables.ipynb) |
+|12-Jun|Series de Tiempo|- Slides<br/> - Angrist   & Pischke MM ch. 4  y papers a   definir.| |
 |Condicional a que quede tiempo|Diseño   por Discontinudad|- Slides<br/>- Wooldridge   ch 10-11| |
 * Ver también el detalle de los temas, y ejercicios asignados en esta versión del [cronograma](https://alumniiaeedu-my.sharepoint.com/:x:/g/personal/rpasquini_austral_edu_ar/EYxX_bAdzahGpWJe7p4WDuwBTN0jEWwvXJTbXr0KaDm4eg?e=kwJC4z).
 * Ver también [CheatSheet Python](https://github.com/rpasquini/econometria/blob/main/datos/cheatsheet-python-1.pdf).
