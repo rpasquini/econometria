@@ -52,12 +52,12 @@ Asistente (voluntario): Francisco Sesto
 Este excelente material opcional fue preparado por el asistente del curso Francisco Sesto.
 
 1. [Intro a Python](https://github.com/rpasquini/econometria/blob/main/notebooks/1_Python_Austral.ipynb)
-2. [Desafío Operaciones y Datos en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/Desafío_Operaciones_y_Datos_Python_Austral.ipynb)
-3. [Booleanos y Lista en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/2_Python_Austral.ipynb)
+   * [Desafío Operaciones y Datos en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/Desafío_Operaciones_y_Datos_Python_Austral.ipynb)
+2. [Booleanos y Lista en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/2_Python_Austral.ipynb)
    * [Desafío Booleanos y Listas en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/Desafío_Booleanos_y_Listas_Python_Austral.ipynb)
-4. [Tuplas y Diccionarios en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/3_Python_Austral.ipynb)
+3. [Tuplas y Diccionarios en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/3_Python_Austral.ipynb)
    * [Desafío Tuplas y Diccionarios en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/Desafío_Tuplas_y_Diccionarios_Python_Austral.ipynb)
-5. [Estructuras de control de flujo en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/4_Python_Austral.ipynb)
+4. [Estructuras de control de flujo en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/4_Python_Austral.ipynb)
    * [Desafío Estructuras de control de flujo en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/Desafío_Estructuras_de_Control_de_Flujo_Python_Austral.ipynb)
-6. [Funciones y módulos en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/5_Python_Austral.ipynb)
-7.  [Desafío Funciones en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/Desafío_de_Funciones_Python_Austral.ipynb)
+5. [Funciones y módulos en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/5_Python_Austral.ipynb)
+   * [Desafío Funciones en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/Desafío_de_Funciones_Python_Austral.ipynb)
