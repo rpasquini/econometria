@@ -1,29 +1,25 @@
-# Econometría - FCE Austral 2023
+# Econometría - FCE Austral 2024
 
 Profesor: Ricardo Pasquini
 
-Asistente (voluntario): Francisco Sesto
-
-
-
-# Cronograma 
+# Cronograma tentativo 
 
 
 |Fecha|Tema|Slides + Lecturas|Notebooks|
 |:----|:----|:----|:----|
-|6-Mar|Repaso Conceptos Probabilidad|Wooldridge Appendix B||
-|13-Mar|Estimador de Esperanza Condicional|- [Slides](https://github.com/rpasquini/econometria/blob/main/slides/cef.pdf)<br/>- Wooldridge   ch 2.|[Función Esperanza Condicional](https://github.com/rpasquini/econometria/blob/main/notebooks/CEF_intro_Austral.ipynb)<br/>|
-|20-Mar|Regresión   Lineal|- Wooldridge   ch 2.| [Regresion Simple](https://github.com/rpasquini/econometria/blob/main/notebooks/OLS.ipynb)<br/> |
-|27-Mar|Propiedades algebraicas, bondad de ajuste, transformaciones |- Wooldridge   ch 2.| [Notebook para practica](https://github.com/rpasquini/econometria/blob/main/notebooks/OLS_2_Ajuste_Propiedades_Test_de_Hip%C3%B3tesis.ipynb)<br/>                                                  |
-|3-Apr|Propiedades Estadísticas: Valor esperado y Varianza de los estimadores. Inclusión de variables binarias.|- Wooldridge   ch 2.|[Notebook clase](https://github.com/rpasquini/econometria/blob/main/OLS%20dummys.ipynb)<br/>                                                               |
-|17-Apr|Tests de Hipótesis|-- Wooldridge   ch 4.<br/> [Notas de clase Tests Hipotesis](https://github.com/rpasquini/econometria/blob/main/slides/Test%20Hipotesis.pdf)| [Notebook tests](https://github.com/rpasquini/econometria/blob/main/Ejemplos_Testeo_de_Hip%C3%B3tesis.ipynb) |
-|24-Apr|Regresión Múltiple|- Wooldridge   ch 3. <br/>  [Notas de Clase](https://github.com/rpasquini/econometria/blob/main/slides/Regresi%C3%B3n%20M%C3%BAltiple.pdf)| [Notebooks regresión múltiple](https://github.com/rpasquini/econometria/blob/main/notebooks/Ejemplos_Regresion_Multiple.ipynb) |
-|8-May|Clasificación / Dependiente Binaria o Categórica  | [Slides de clase](https://github.com/rpasquini/econometria/blob/main/slides/Modelos%20Clasificaci%C3%B3n.pdf)<br/>| [notebook clasificacion](https://github.com/rpasquini/econometria/blob/main/5_Modelos_de_Clasificacion.ipynb) |
-|15-May|Inferencia   Causal y Diseños Aleatorizados|- [Slides](https://github.com/rpasquini/econometria/blob/main/slides/Sesgo%20selecci%C3%B3n%20y%20RCTs.pdf)<br/>- Wooldridge   ch.2.7. <br/> - Angrist & Pischke MHE ch. 2 The Experimental Ideal| |
-|22-May|Modelos   basados en Independencia Condicional|- [Slides](https://github.com/rpasquini/econometria/blob/main/slides/CIA.pdf)<br/>- Angrist   & Pischke MM ch2.  <br/>- Angrist &   Pischke MHE ch.3.2-3.3| [notebook](https://github.com/rpasquini/econometria/blob/main/CIA_y_Matching.ipynb)|
-|29-May|Diferencias   en Diferencias|- [Slides](https://github.com/rpasquini/econometria/blob/main/slides/DD.pdf)<br/>- Angrist   & Pischke MM ch. 5| [notebook](https://github.com/rpasquini/econometria/blob/main/notebooks/Diferencias_en_Diferencias.ipynb) |
-|5-Jun|Variables   Instrumentales|- [DAGs Slides](https://github.com/rpasquini/econometria/blob/main/slides/Dags.pdf)<br/>- [VIs Slides](https://github.com/rpasquini/econometria/blob/main/slides/IVs.pdf)<br/> -Wooldridge   ch.15. <br/>- Angrist & Pischke MM ch.3|[notebook](https://github.com/rpasquini/econometria/blob/main/Instrumental_Variables.ipynb) |
-|12-Jun|Series de Tiempo|- [Slides](https://github.com/rpasquini/econometria/blob/main/slides/Series%20de%20Tiempo.pdf)<br/> - Angrist   & Pischke MM ch. 4  y papers a   definir.| [Notebook](https://github.com/rpasquini/econometria/blob/main/Series_de_Tiempo.ipynb) |
+|4-Mar|Repaso Conceptos Probabilidad|Wooldridge Appendix B||
+|4- Mar|Estimador de Esperanza Condicional|- [Slides](https://github.com/rpasquini/econometria/blob/main/slides/cef.pdf)<br/>- Wooldridge   ch 2.|[Función Esperanza Condicional](https://github.com/rpasquini/econometria/blob/main/notebooks/CEF_intro_Austral.ipynb)<br/>|
+|11-Mar|Regresión   Lineal|- Wooldridge   ch 2.| [Regresion Simple](https://github.com/rpasquini/econometria/blob/main/notebooks/OLS.ipynb)<br/> |
+|18-Mar|Propiedades algebraicas, bondad de ajuste, transformaciones |- Wooldridge   ch 2.| [Notebook para practica](https://github.com/rpasquini/econometria/blob/main/notebooks/OLS_2_Ajuste_Propiedades_Test_de_Hip%C3%B3tesis.ipynb)<br/>                                                  |
+|25-Mar|Propiedades Estadísticas: Valor esperado y Varianza de los estimadores. Inclusión de variables binarias.|- Wooldridge   ch 2.|[Notebook clase](https://github.com/rpasquini/econometria/blob/main/OLS%20dummys.ipynb)<br/>                                                               |
+|8-Apr|Tests de Hipótesis|-- Wooldridge   ch 4.<br/> [Notas de clase Tests Hipotesis](https://github.com/rpasquini/econometria/blob/main/slides/Test%20Hipotesis.pdf)| [Notebook tests](https://github.com/rpasquini/econometria/blob/main/Ejemplos_Testeo_de_Hip%C3%B3tesis.ipynb) |
+|22 y 29-Apr|Regresión Múltiple|- Wooldridge   ch 3. <br/>  [Notas de Clase](https://github.com/rpasquini/econometria/blob/main/slides/Regresi%C3%B3n%20M%C3%BAltiple.pdf)| [Notebooks regresión múltiple](https://github.com/rpasquini/econometria/blob/main/notebooks/Ejemplos_Regresion_Multiple.ipynb) |
+|6-May|Clasificación / Dependiente Binaria o Categórica  | [Slides de clase](https://github.com/rpasquini/econometria/blob/main/slides/Modelos%20Clasificaci%C3%B3n.pdf)<br/>| [notebook clasificacion](https://github.com/rpasquini/econometria/blob/main/5_Modelos_de_Clasificacion.ipynb) |
+|13-May|Inferencia   Causal y Diseños Aleatorizados|- [Slides](https://github.com/rpasquini/econometria/blob/main/slides/Sesgo%20selecci%C3%B3n%20y%20RCTs.pdf)<br/>- Wooldridge   ch.2.7. <br/> - Angrist & Pischke MHE ch. 2 The Experimental Ideal| |
+|20-May|Modelos   basados en Independencia Condicional|- [Slides](https://github.com/rpasquini/econometria/blob/main/slides/CIA.pdf)<br/>- Angrist   & Pischke MM ch2.  <br/>- Angrist &   Pischke MHE ch.3.2-3.3| [notebook](https://github.com/rpasquini/econometria/blob/main/CIA_y_Matching.ipynb)|
+|27-May|Diferencias   en Diferencias|- [Slides](https://github.com/rpasquini/econometria/blob/main/slides/DD.pdf)<br/>- Angrist   & Pischke MM ch. 5| [notebook](https://github.com/rpasquini/econometria/blob/main/notebooks/Diferencias_en_Diferencias.ipynb) |
+|3-Jun|Variables   Instrumentales|- [DAGs Slides](https://github.com/rpasquini/econometria/blob/main/slides/Dags.pdf)<br/>- [VIs Slides](https://github.com/rpasquini/econometria/blob/main/slides/IVs.pdf)<br/> -Wooldridge   ch.15. <br/>- Angrist & Pischke MM ch.3|[notebook](https://github.com/rpasquini/econometria/blob/main/Instrumental_Variables.ipynb) |
+|10-Jun|Series de Tiempo|- [Slides](https://github.com/rpasquini/econometria/blob/main/slides/Series%20de%20Tiempo.pdf)<br/> - Angrist   & Pischke MM ch. 4  y papers a   definir.| [Notebook](https://github.com/rpasquini/econometria/blob/main/Series_de_Tiempo.ipynb) |
 
 * Ver también el detalle de los temas, y ejercicios asignados en esta versión del [cronograma](https://alumniiaeedu-my.sharepoint.com/:x:/g/personal/rpasquini_austral_edu_ar/EYxX_bAdzahGpWJe7p4WDuwBTN0jEWwvXJTbXr0KaDm4eg?e=kwJC4z).
 * Ver también [CheatSheet Python](https://github.com/rpasquini/econometria/blob/main/datos/cheatsheet-python-1.pdf).
