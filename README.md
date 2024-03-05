@@ -8,7 +8,7 @@ Profesor: Ricardo Pasquini
 |Fecha|Tema|Slides + Lecturas|Notebooks|
 |:----|:----|:----|:----|
 |4-Mar|Repaso Conceptos Probabilidad|Wooldridge Appendix B||
-|4- Mar|Estimador de Esperanza Condicional|- [Slides](https://github.com/rpasquini/econometria/blob/main/slides/cef.pdf)<br/>- Wooldridge   ch 2.|[Función Esperanza Condicional](https://github.com/rpasquini/econometria/blob/main/notebooks/CEF_intro_Austral.ipynb)<br/>|
+|4- Mar|Estimador de Esperanza Condicional|- [Slides](https://github.com/rpasquini/econometria/blob/main/slides/cef/cef.pdf)<br/>- Wooldridge   ch 2.|[Función Esperanza Condicional](https://github.com/rpasquini/econometria/blob/main/notebooks/CEF_intro_Austral.ipynb)<br/>|
 |11-Mar|Regresión   Lineal|- Wooldridge   ch 2.| [Regresion Simple](https://github.com/rpasquini/econometria/blob/main/notebooks/OLS.ipynb)<br/> |
 |18-Mar|Propiedades algebraicas, bondad de ajuste, transformaciones |- Wooldridge   ch 2.| [Notebook para practica](https://github.com/rpasquini/econometria/blob/main/notebooks/OLS_2_Ajuste_Propiedades_Test_de_Hip%C3%B3tesis.ipynb)<br/>                                                  |
 |25-Mar|Propiedades Estadísticas: Valor esperado y Varianza de los estimadores. Inclusión de variables binarias.|- Wooldridge   ch 2.|[Notebook clase](https://github.com/rpasquini/econometria/blob/main/OLS%20dummys.ipynb)<br/>                                                               |
