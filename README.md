@@ -1,6 +1,6 @@
 # Econometría - FCE Austral 2024
 
-Profesor: Ricardo Pasquini
+Ricardo Pasquini y Octavio Santalucia
 
 # Cronograma tentativo 
 
