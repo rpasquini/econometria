@@ -1,13 +1,13 @@
 # Econometría - FCE Austral 2024
 
-Profesor: Ricardo Pasquini
+Ricardo Pasquini y Octavio Santalucia
 
 # Cronograma tentativo 
 
 
 |Fecha|Tema|Slides + Lecturas|Notebooks|
 |:----|:----|:----|:----|
-|4-Mar|Repaso Conceptos Probabilidad|Wooldridge Appendix B||
+|4-Mar|Repaso Conceptos Probabilidad|Wooldridge Appendix C||
 |4- Mar|Estimador de Esperanza Condicional|- [Slides](https://github.com/rpasquini/econometria/blob/main/slides/cef/cef.pdf)<br/>- Wooldridge   ch 2.|[Función Esperanza Condicional](https://github.com/rpasquini/econometria/blob/main/notebooks/CEF_intro_Austral.ipynb)<br/>|
 |11-Mar|Regresión   Lineal|[Slides](/slides/regresion/regresion.pdf)<br/>- Wooldridge   ch 2.<br/> [Ejercicios resueltos PPT](https://github.com/rpasquini/econometria/blob/main/slides/Ejercicios%20Propuestos%20Clase%202.pptx)| [Regresion Simple](https://github.com/rpasquini/econometria/blob/main/notebooks/OLS.ipynb)<br/> |
 |18-Mar|Propiedades algebraicas, bondad de ajuste, transformaciones |- Wooldridge   ch 2.| [Notebook para practica](https://github.com/rpasquini/econometria/blob/main/notebooks/OLS_2_Ajuste_Propiedades_Test_de_Hip%C3%B3tesis.ipynb)<br/>                                                  |
