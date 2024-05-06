@@ -58,4 +58,5 @@ Este excelente material opcional fue preparado por el asistente del curso Franci
 4. [Estructuras de control de flujo en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/4_Python_Austral.ipynb)
    * [Desafío Estructuras de control de flujo en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/Desafío_Estructuras_de_Control_de_Flujo_Python_Austral.ipynb)
 5. [Funciones y módulos en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/5_Python_Austral.ipynb)
-   * [Desafío Funciones en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/Desafío_de_Funciones_Python_Austral.ipynb)
+   * [Desafío Funciones en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/Desafío_de_Funciones_Python_Austral.ipynb"
+
