@@ -1,4 +1,4 @@
-# Econometría - FCE Austral 2024
+# Econometría - FCE Austral 2025
 
 Ricardo Pasquini y Octavio Santalucia
 
