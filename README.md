@@ -5,10 +5,10 @@ Ricardo Pasquini y Octavio Santalucia
 # Cronograma tentativo 
 
 
-|Fecha|Tema|Slides + Lecturas|Notebooks|
-|:----|:----|:----|:----|
-|10-Mar|Repaso Conceptos Probabilidad|Wooldridge Appendix C||
-|10- Mar|Estimador de Esperanza Condicional|- [Slides](https://github.com/rpasquini/econometria/blob/main/slides/cef/cef.pdf)<br/>- Wooldridge   ch 2.|[Función Esperanza Condicional](https://github.com/rpasquini/econometria/blob/main/notebooks/CEF_intro_Austral.ipynb)<br/>|
+|Fecha|Tema|Slides + Lecturas|Notebooks|Ejercicios de clase|
+|:----|:----|:----|:----|:----|
+|10-Mar|Repaso Conceptos Probabilidad|Wooldridge Appendix C|||
+|10- Mar|Estimador de Esperanza Condicional|- [Slides](https://github.com/rpasquini/econometria/blob/main/slides/cef/cef.pdf)<br/>- Wooldridge   ch 2.|[Función Esperanza Condicional](https://github.com/rpasquini/econometria/blob/main/notebooks/CEF_intro_Austral.ipynb)<br/>|[#1 Ejercicios Propuestos - Propiedades de los estimadores](https://github.com/OctavioSantalucia/econometria/blob/main/ejercicios/%231%20Ejercicios%20Propuestos%20-%20Propiedades%20de%20los%20estimadores.pptx)|
 |17-Mar|Regresión   Lineal|[Slides](/slides/regresion/regresion.pdf)<br/>- Wooldridge   ch 2.<br/> [Ejercicios resueltos PPT](https://github.com/rpasquini/econometria/blob/main/slides/Ejercicios%20Propuestos%20Clase%202.pptx)| [Regresion Simple](https://github.com/rpasquini/econometria/blob/main/notebooks/OLS.ipynb)<br/> |
 |31-Mar|Propiedades algebraicas, bondad de ajuste, transformaciones |- Wooldridge   ch 2.| [Notebook para practica](https://github.com/rpasquini/econometria/blob/main/notebooks/OLS_2_Ajuste_Propiedades_Test_de_Hip%C3%B3tesis.ipynb)<br/>                                                  |
 |7-Abr|Propiedades Estadísticas: Valor esperado y Varianza de los estimadores. Inclusión de variables binarias.| [Slides](slides/regresion/regresion_propiedades_estadisticas.pdf)- Wooldridge   ch 2.<br/>-[Ejercicios resueltos clase 4](https://github.com/OctavioSantalucia/econometria/blob/main/slides/PPT%20Clase%204.pptx)|[Notebook clase](https://github.com/rpasquini/econometria/blob/main/OLS%20dummys.ipynb)<br/> -[Simulación juego de dados](https://colab.research.google.com/drive/1x7LNL8_cxMW6_4m-ayLd-pb7pz81Bnpv?usp=sharing) <br/>                                                               |
