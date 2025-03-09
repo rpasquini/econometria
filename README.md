@@ -5,7 +5,7 @@ Ricardo Pasquini y Octavio Santalucia
 # Cronograma tentativo 
 
 
-|Fecha|Tema|Slides + Lecturas|Notebooks|Ejercicios|
+|Fecha|Tema|Slides + Lecturas|Notebooks|Ejercicios de clase|
 |:----|:----|:----|:----|:----|
 |10-Mar|Repaso Conceptos Probabilidad|Wooldridge Appendix C|||
 |10- Mar|Estimador de Esperanza Condicional|- [Slides](https://github.com/rpasquini/econometria/blob/main/slides/cef/cef.pdf)<br/>- Wooldridge   ch 2.|[Función Esperanza Condicional](https://github.com/rpasquini/econometria/blob/main/notebooks/CEF_intro_Austral.ipynb)<br/>|[#1 Ejercicios Propuestos - Propiedades de los estimadores](https://github.com/OctavioSantalucia/econometria/blob/main/ejercicios/%231%20Ejercicios%20Propuestos%20-%20Propiedades%20de%20los%20estimadores.pptx)|
