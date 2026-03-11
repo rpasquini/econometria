@@ -2,71 +2,61 @@
 
 Ricardo Pasquini, Octavio Santalucia y Francisco Sesto
 
-## Cronograma tentativo 
+## Cronograma tentativo
 
 
-|Fecha|Tema|Slides + Lecturas|Notebooks|Ejercicios de clase|
-|:----|:----|:----|:----|:----|
-|2-Mar|Introducción a la materia, Repaso y Función de Esperanza Condicional|- [Slides intro](slides/intro/intro.pdf)<br/> [Slides CEF](https://github.com/rpasquini/econometria/blob/main/slides/cef/cef.pdf)<br/>- Wooldridge   ch 2.|[Función Esperanza Condicional](https://github.com/rpasquini/econometria/blob/main/notebooks/CEF_intro_Austral.ipynb)<br/>||
-|9-Mar|Regresión   Lineal|[Slides](/slides/regresion/regresion.pdf)<br/>- Wooldridge   ch 2.<br/> [Ejercicios resueltos PPT](https://github.com/rpasquini/econometria/blob/main/slides/Ejercicios%20Propuestos%20Clase%202.pptx)| [Regresion Simple](https://github.com/rpasquini/econometria/blob/main/notebooks/OLS.ipynb)<br/> ||
-|16-Mar|Regresión   Lineal: Propiedades algebraicas, bondad de ajuste, transformaciones |- Wooldridge   ch 2.| [Notebook para practica](https://github.com/rpasquini/econometria/blob/main/notebooks/OLS_2_Ajuste_Propiedades_Test_de_Hip%C3%B3tesis.ipynb)|| 
-|23-Mar|Propiedades Estadísticas: Valor esperado y Varianza de los estimadores.| [Slides](slides/regresion/regresion_propiedades_estadisticas.pdf)- Wooldridge   ch 2.<br/>-[Ejercicios resueltos clase 4](https://github.com/OctavioSantalucia/econometria/blob/main/slides/PPT%20Clase%204.pptx)|[Notebook clase](https://github.com/rpasquini/econometria/blob/main/OLS%20dummys.ipynb)<br/> -[Simulación juego de dados](https://colab.research.google.com/drive/1x7LNL8_cxMW6_4m-ayLd-pb7pz81Bnpv?usp=sharing) <br/>||
-|30-Mar|Tests de Hipótesis|-- Wooldridge   ch 4.<br/> [Notas de clase Tests Hipotesis](slides/Test%20Hipotesis.pdf)<br/>- [Ejercicio Airbnb](https://github.com/OctavioSantalucia/econometria/blob/main/ejercicios/PPT%20Clase%205%20Test%20de%20Hipótesis.pptx)| [Notebook tests](https://github.com/rpasquini/econometria/blob/main/Ejemplos_Testeo_de_Hip%C3%B3tesis.ipynb) <br/> ||
-|6-Apr|Regresión Múltiple|- Wooldridge   ch 3. <br/>  [Slides](slides/regresion_multiple/reg_multiple.pdf)| [Notebooks regresión múltiple](https://github.com/rpasquini/econometria/blob/main/notebooks/Ejemplos_Regresion_Multiple.ipynb) || 
-|13-Apr|Regresión Múltiple|- Wooldridge   ch 3. <br/>  [Slides](slides/regresion_multiple/reg_multiple.pdf)| [Notebooks regresión múltiple](https://github.com/rpasquini/econometria/blob/main/notebooks/Ejemplos_Regresion_Multiple.ipynb) || 
-|20-Apr|Clasificación| [Slides de clase](https://github.com/rpasquini/econometria/blob/main/slides/Modelos%20Clasificaci%C3%B3n.pdf)<br/>| [notebook clasificacion](https://github.com/rpasquini/econometria/blob/main/5_Modelos_de_Clasificacion.ipynb) ||
-|27-Apr|Heterocedasticidad, Correlación Serial y Espacial| [Slides de clase](slides/heterocedasticidad/heterocedasticidad.pdf)  <br/>| [notebook](notebooks/Diagnostico_de_residuos_y_regresión_robusta.ipynb) ||
-|4-May|Inferencia   Causal y Diseños Aleatorizados|- [Slides](https://github.com/rpasquini/econometria/blob/main/slides/Sesgo%20selecci%C3%B3n%20y%20RCTs.pdf)<br/>- Wooldridge   ch.2.7. <br/> - Angrist & Pischke MHE ch. 2 The Experimental Ideal| [notebook](/notebooks/Experimentos_Aleatorizados.ipynb) ||
-|11-May|Modelos   basados en Independencia Condicional|- [Slides](slides/cia/cia.pdf)<br/>- Angrist   & Pischke MM ch2.  <br/>- Angrist &   Pischke MHE ch.3.2-3.3| [notebook](https://github.com/rpasquini/econometria/blob/main/CIA_y_Matching.ipynb)||
-|18-May|Diferencias   en Diferencias|- [Slides](slides/DD/presentation.pdf)<br/>- Angrist   & Pischke MM ch. 5| [notebook](https://github.com/rpasquini/econometria/blob/main/notebooks/Diferencias_en_Diferencias.ipynb) ||
-|1-Jun|Variables   Instrumentales|- [DAGs Slides](https://github.com/rpasquini/econometria/blob/main/slides/Dags.pdf)<br/>- [VIs Slides](slides/IVs/IV.pdf)<br/> -Wooldridge   ch.15. <br/>- Angrist & Pischke MM ch.3|[notebook](https://github.com/rpasquini/econometria/blob/main/Instrumental_Variables.ipynb) ||
-|8-Jun|Diseño por Discontinuidad||||
+| Fecha  | Tema                                                                          | Slides                                                                                                                                                                                               | Lecturas                                                                  | Notebooks                                                                                                                                                                                                   | Ejercicios de clase |
+| ------ | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| 2-Mar  | Introducción a la materia, Repaso y Función de Esperanza Condicional          | - [Slides intro](slides/intro/intro.pdf) [Slides CEF](https://github.com/rpasquini/econometria/blob/main/slides/cef/cef.pdf)                                                                         | - [Intro: Aplicaciones de la regresión en la investigación](https://simuecon.com/es/intro/Intro.html) <br> - *Opcional*: Wooldridge ch 2. | [Función Esperanza Condicional](https://github.com/rpasquini/econometria/blob/main/notebooks/CEF_intro_Austral.ipynb)                                                                                       |                     |
+| 9-Mar  | Regresión Lineal                                                              | [Slides](/slides/regresion/regresion.pdf) [Ejercicios resueltos PPT](https://github.com/rpasquini/econometria/blob/main/slides/Ejercicios%20Propuestos%20Clase%202.pptx)                             | - [Regresión lineal simple — Econometría con Simulaciones](https://simuecon.com/es/ch1_regresion_simple/simple_linear_regression.html) <br> - *Opcional*: Wooldridge ch 2. | [Regresion Simple](https://github.com/rpasquini/econometria/blob/main/notebooks/OLS.ipynb)                                                                                                                  |                     |
+| 16-Mar | Regresión Lineal: Propiedades algebraicas, bondad de ajuste, transformaciones |                                                                                                                                                                                                      | - Wooldridge ch 2.                                                        | [Notebook para practica](https://github.com/rpasquini/econometria/blob/main/notebooks/OLS_2_Ajuste_Propiedades_Test_de_Hip%C3%B3tesis.ipynb)                                                                |                     |
+| 23-Mar | Propiedades Estadísticas: Valor esperado y Varianza de los estimadores.       | [Slides](slides/regresion/regresion_propiedades_estadisticas.pdf) [Ejercicios resueltos clase 4](https://github.com/OctavioSantalucia/econometria/blob/main/slides/PPT%20Clase%204.pptx)             | - Wooldridge ch 2.                                                        | [Notebook clase](https://github.com/rpasquini/econometria/blob/main/OLS%20dummys.ipynb) -[Simulación juego de dados](https://colab.research.google.com/drive/1x7LNL8_cxMW6_4m-ayLd-pb7pz81Bnpv?usp=sharing) |                     |
+| 30-Mar | Tests de Hipótesis                                                            | [Notas de clase Tests Hipotesis](slides/Test%20Hipotesis.pdf) [Ejercicio Airbnb](https://github.com/OctavioSantalucia/econometria/blob/main/ejercicios/PPT%20Clase%205%20Test%20de%20Hipótesis.pptx) | - Wooldridge ch 4.                                                        | [Notebook tests](https://github.com/rpasquini/econometria/blob/main/Ejemplos_Testeo_de_Hip%C3%B3tesis.ipynb)                                                                                                |                     |
+| 6-Apr  | Regresión Múltiple                                                            | [Slides](slides/regresion_multiple/reg_multiple.pdf)                                                                                                                                                 | - Wooldridge ch 3.                                                        | [Notebooks regresión múltiple](https://github.com/rpasquini/econometria/blob/main/notebooks/Ejemplos_Regresion_Multiple.ipynb)                                                                              |                     |
+| 13-Apr | Regresión Múltiple                                                            | [Slides](slides/regresion_multiple/reg_multiple.pdf)                                                                                                                                                 | - Wooldridge ch 3.                                                        | [Notebooks regresión múltiple](https://github.com/rpasquini/econometria/blob/main/notebooks/Ejemplos_Regresion_Multiple.ipynb)                                                                              |                     |
+| 20-Apr | Clasificación                                                                 | [Slides de clase](https://github.com/rpasquini/econometria/blob/main/slides/Modelos%20Clasificaci%C3%B3n.pdf)                                                                                        |                                                                           | [notebook clasificacion](https://github.com/rpasquini/econometria/blob/main/5_Modelos_de_Clasificacion.ipynb)                                                                                               |                     |
+| 27-Apr | Heterocedasticidad, Correlación Serial y Espacial                             | [Slides de clase](slides/heterocedasticidad/heterocedasticidad.pdf)                                                                                                                                  |                                                                           | [notebook](notebooks/Diagnostico_de_residuos_y_regresión_robusta.ipynb)                                                                                                                                     |                     |
+| 4-May  | Inferencia Causal y Diseños Aleatorizados                                     | - [Slides](https://github.com/rpasquini/econometria/blob/main/slides/Sesgo%20selecci%C3%B3n%20y%20RCTs.pdf)                                                                                          | - Wooldridge ch.2.7. - Angrist & Pischke MHE ch. 2 The Experimental Ideal | [notebook](/notebooks/Experimentos_Aleatorizados.ipynb)                                                                                                                                                     |                     |
+| 11-May | Modelos basados en Independencia Condicional                                  | - [Slides](slides/cia/cia.pdf)                                                                                                                                                                       | - Angrist & Pischke MM ch2. - Angrist & Pischke MHE ch.3.2-3.3            | [notebook](https://github.com/rpasquini/econometria/blob/main/CIA_y_Matching.ipynb)                                                                                                                         |                     |
+| 18-May | Diferencias en Diferencias                                                    | - [Slides](slides/DD/presentation.pdf)                                                                                                                                                               | - Angrist & Pischke MM ch. 5                                              | [notebook](https://github.com/rpasquini/econometria/blob/main/notebooks/Diferencias_en_Diferencias.ipynb)                                                                                                   |                     |
+| 1-Jun  | Variables Instrumentales                                                      | - [DAGs Slides](https://github.com/rpasquini/econometria/blob/main/slides/Dags.pdf) - [VIs Slides](slides/IVs/IV.pdf)                                                                                | -Wooldridge ch.15. - Angrist & Pischke MM ch.3                            | [notebook](https://github.com/rpasquini/econometria/blob/main/Instrumental_Variables.ipynb)                                                                                                                 |                     |
+| 8-Jun  | Diseño por Discontinuidad                                                     |                                                                                                                                                                                                      |                                                                           |                                                                                                                                                                                                             |                     |
 
 
 ### Contenidos extra condicional al tiempo
 
-* Series de Tiempo- [Slides](https://github.com/rpasquini/econometria/blob/main/slides/Series%20de%20Tiempo.pdf)<br/> - Angrist   & Pischke MM ch. 4  y papers a   definir.,  [Notebook](https://github.com/rpasquini/econometria/blob/main/Series_de_Tiempo.ipynb). 
-
+- Series de Tiempo- [Slides](https://github.com/rpasquini/econometria/blob/main/slides/Series%20de%20Tiempo.pdf)  
+ - Angrist   & Pischke MM ch. 4  y papers a   definir.,  [Notebook](https://github.com/rpasquini/econometria/blob/main/Series_de_Tiempo.ipynb).
 
 ### Cronograma y Ejercicios
-* Ver también el detalle de los temas, y ejercicios asignados en esta versión del [cronograma](https://alumniiaeedu-my.sharepoint.com/:x:/g/personal/rpasquini_austral_edu_ar/EYxX_bAdzahGpWJe7p4WDuwBTN0jEWwvXJTbXr0KaDm4eg?e=kwJC4z).
 
-
-
+- Ver también el detalle de los temas, y ejercicios asignados en esta versión del [cronograma](https://alumniiaeedu-my.sharepoint.com/:x:/g/personal/rpasquini_austral_edu_ar/EYxX_bAdzahGpWJe7p4WDuwBTN0jEWwvXJTbXr0KaDm4eg?e=kwJC4z).
 
 ## Ejercicios
 
-* Ver la lista de ejercicios asignados por semana en el [cronograma](https://alumniiaeedu-my.sharepoint.com/:x:/g/personal/rpasquini_austral_edu_ar/EYxX_bAdzahGpWJe7p4WDuwBTN0jEWwvXJTbXr0KaDm4eg?e=kwJC4z)
-* [Bases de Datos para Ejercicios de Wooldridge](https://academic.cengage.com/resource_uploads/downloads/1111531048_374626.zip)
-
-
+- Ver la lista de ejercicios asignados por semana en el [cronograma](https://alumniiaeedu-my.sharepoint.com/:x:/g/personal/rpasquini_austral_edu_ar/EYxX_bAdzahGpWJe7p4WDuwBTN0jEWwvXJTbXr0KaDm4eg?e=kwJC4z)
+- [Bases de Datos para Ejercicios de Wooldridge](https://academic.cengage.com/resource_uploads/downloads/1111531048_374626.zip)
 
 ## Libros
 
-* [Econometrics with Simulations](https://www.simuecon.com/) 
-* [Introductory Econometrics, A Modern Approach" 7th Edition. Jeffrey Wooldridge](https://www.amazon.com/Introductory-Econometrics-Modern-Approach-MindTap/dp/1337558869/ref=sr_1_1?keywords=introductory+econometrics+a+modern+approach&qid=1674591514&s=books&sprefix=introductory+econo%2Cstripbooks-intl-ship%2C303&sr=1-1)
-* [Angrist and Piscke's Mastering Metrics site](https://www.masteringmetrics.com/) (MM)
-* [Angrist and Piscke's Mostly Harmless Econometrics](https://www.researchgate.net/publication/51992844_Mostly_Harmless_Econometrics_An_Empiricist's_Companion) (MHE)
-
-
+- [Econometrics with Simulations](https://www.simuecon.com/) 
+- [Introductory Econometrics, A Modern Approach" 7th Edition. Jeffrey Wooldridge](https://www.amazon.com/Introductory-Econometrics-Modern-Approach-MindTap/dp/1337558869/ref=sr_1_1?keywords=introductory+econometrics+a+modern+approach&qid=1674591514&s=books&sprefix=introductory+econo%2Cstripbooks-intl-ship%2C303&sr=1-1)
+- [Angrist and Piscke's Mastering Metrics site](https://www.masteringmetrics.com/) (MM)
+- [Angrist and Piscke's Mostly Harmless Econometrics](https://www.researchgate.net/publication/51992844_Mostly_Harmless_Econometrics_An_Empiricist's_Companion) (MHE)
 
 ### Material complementario -  Python
 
-
-
-
 1. [Intro a Python](https://github.com/rpasquini/econometria/blob/main/notebooks/1_Python_Austral.ipynb)
-   * [Desafío Operaciones y Datos en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/Desafío_Operaciones_y_Datos_Python_Austral.ipynb)
+  - [Desafío Operaciones y Datos en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/Desafío_Operaciones_y_Datos_Python_Austral.ipynb)
 2. [Booleanos y Lista en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/2_Python_Austral.ipynb)
-   * [Desafío Booleanos y Listas en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/Desafío_Booleanos_y_Listas_Python_Austral.ipynb)
+  - [Desafío Booleanos y Listas en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/Desafío_Booleanos_y_Listas_Python_Austral.ipynb)
 3. [Tuplas y Diccionarios en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/3_Python_Austral.ipynb)
-   * [Desafío Tuplas y Diccionarios en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/Desafío_Tuplas_y_Diccionarios_Python_Austral.ipynb)
+  - [Desafío Tuplas y Diccionarios en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/Desafío_Tuplas_y_Diccionarios_Python_Austral.ipynb)
 4. [Estructuras de control de flujo en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/4_Python_Austral.ipynb)
-   * [Desafío Estructuras de control de flujo en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/Desafío_Estructuras_de_Control_de_Flujo_Python_Austral.ipynb)
+  - [Desafío Estructuras de control de flujo en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/Desafío_Estructuras_de_Control_de_Flujo_Python_Austral.ipynb)
 5. [Funciones y módulos en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/5_Python_Austral.ipynb)
-   * [Desafío Funciones en Python](https://github.com/rpasquini/econometria/blob/main/notebooks/Desafío_de_Funciones_Python_Austral.ipynb"
+  - [Desafío Funciones en Python]([https://github.com/rpasquini/econometria/blob/main/notebooks/Desafío_de_Funciones_Python_Austral.ipynb](https://github.com/rpasquini/econometria/blob/main/notebooks/Desafío_de_Funciones_Python_Austral.ipynb)"
 
+- Ver también [CheatSheet Python](https://github.com/rpasquini/econometria/blob/main/datos/cheatsheet-python-1.pdf).
+- Ver también [Guía de Pandas](https://github.com/rpasquini/econometria/blob/main/notebooks/Pandas_Austral.ipynb).
 
-* Ver también [CheatSheet Python](https://github.com/rpasquini/econometria/blob/main/datos/cheatsheet-python-1.pdf).
-
-* Ver también [Guía de Pandas](https://github.com/rpasquini/econometria/blob/main/notebooks/Pandas_Austral.ipynb).
