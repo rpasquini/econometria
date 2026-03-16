@@ -2,6 +2,10 @@
 
 Ricardo Pasquini, Octavio Santalucia y Francisco Sesto
 
+## Guía de ejercicios de la materia
+
+Enlace a la guía [AQUÍ](https://campusvirtual.austral.edu.ar/mod/resource/view.php?id=2029911)
+
 ## Cronograma tentativo
 
 
