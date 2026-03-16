@@ -2,9 +2,7 @@
 
 Ricardo Pasquini, Octavio Santalucia y Francisco Sesto
 
-## Guía de ejercicios de la materia
 
-Enlace a la guía [AQUÍ](https://campusvirtual.austral.edu.ar/mod/resource/view.php?id=2029911)
 
 ## Cronograma tentativo
 
@@ -26,6 +24,9 @@ Enlace a la guía [AQUÍ](https://campusvirtual.austral.edu.ar/mod/resource/view
 | 1-Jun  | Variables Instrumentales                                                      | - [DAGs Slides](https://github.com/rpasquini/econometria/blob/main/slides/Dags.pdf) - [VIs Slides](slides/IVs/IV.pdf)                                                                                | -Wooldridge ch.15. - Angrist & Pischke MM ch.3                            | [notebook](https://github.com/rpasquini/econometria/blob/main/Instrumental_Variables.ipynb)                                                                                                                 |                     |
 | 8-Jun  | Diseño por Discontinuidad                                                     |                                                                                                                                                                                                      |                                                                           |                                                                                                                                                                                                             |                     |
 
+## Guía de ejercicios de la materia
+
+Enlace a la guía [AQUÍ](https://campusvirtual.austral.edu.ar/mod/resource/view.php?id=2029911)
 
 ### Contenidos extra condicional al tiempo
 
